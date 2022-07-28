@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a7f4bb12-8b4a-46ac-acb2-b4a4fd35fe37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EmplyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EmplyClass.java" afterDir="false" />
-    </list>
+    <list default="true" id="a7f4bb12-8b4a-46ac-acb2-b4a4fd35fe37" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -76,7 +73,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="First_branch" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
